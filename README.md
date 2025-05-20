@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,8B0000&height=200&section=header&text=Raúl%20Andrés%20de%20la%20Rosa%20Gamboa%20|%20Full-Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </h1>
 
-<!-- About Me -->
 ## 👨‍💻 Sobre mí
 
 - 🔥 Full-Stack Developer con enfoque en el desarrollo de sistemas modernos.
@@ -14,7 +13,6 @@
 
 ---
 
-<!-- Tech Stack -->
 ## 🧰 Tecnologías que uso
 
 <p align="center">
@@ -33,14 +31,13 @@
 
 ---
 
-<!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=radical&count_private=true&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TuUsuarioGitHub&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XmetalHaxksX&show_icons=true&theme=radical&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=XmetalHaxksX&theme=radical&hide_border=true" width="49%" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&theme=radical&hide_border=true&langs_count=10" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XmetalHaxksX&layout=compact&theme=radical&hide_border=true&langs_count=10" width="60%" />
 </div>
 
 ---
