@@ -1,6 +1,8 @@
 <!-- Header with vibrant red to black gradient -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,000000&height=200&section=header&text=Raúl%20Andrés%20de%20la%20Rosa%20Gamboa%20|%20Full-Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,000000&height=200&section=header&text=Raúl%20Andrés%20de%20la%20Rosa%20Gamboa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <br />
+  <span style="font-size: 22px; color: white;">Full-Stack Developer</span>
 </h1>
 
 ## 👨‍💻 About Me
