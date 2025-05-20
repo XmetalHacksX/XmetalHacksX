@@ -1,6 +1,6 @@
-<!-- Header con gradiente negro a rojo -->
+<!-- Header con gradiente rojo vibrante a negro -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,8B0000&height=200&section=header&text=Raúl%20Andrés%20de%20la%20Rosa%20Gamboa%20|%20Full-Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,000000&height=200&section=header&text=Raúl%20Andrés%20de%20la%20Rosa%20Gamboa%20|%20Full-Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </h1>
 
 ## 👨‍💻 Sobre mí
@@ -36,5 +36,5 @@
 
 <!-- Footer con gradiente inverso -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,ff0000&height=120&section=footer"/>
 </p>
