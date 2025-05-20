@@ -15,11 +15,7 @@
 
 ## 🧰 Tecnologías que uso
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vue,react,nextjs,ts,astro,js,php,flutter,dart,mysql&theme=dark&perline=6" />
-  </a>
-</p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=laravel,vue,react,nextjs,ts,astro,js,php,flutter,dart,mysql,css,tailwind&theme=dark&perline=6" /> </a> </p>
 
 ---
 
