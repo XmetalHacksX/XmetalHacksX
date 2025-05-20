@@ -1,21 +1,25 @@
-<!-- Header con gradiente rojo vibrante a negro -->
+<!-- Header with vibrant red to black gradient -->
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,000000&height=200&section=header&text=Raúl%20Andrés%20de%20la%20Rosa%20Gamboa%20|%20Full-Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </h1>
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-- 🔥 Full-Stack Developer con enfoque en el desarrollo de sistemas modernos.
-- 🧩 Me especializo en Laravel, Vue, React, Next.js y tecnologías web.
-- 🌈 Apasionado por el diseño de interfaces atractivas y funcionales.
-- 💡 Siempre aprendiendo y creando soluciones innovadoras.
-- 🛠️ Actualmente trabajando en sistemas POS y portafolios personalizados.
+- 🔥 Passionate Full-Stack Developer focused on building modern and efficient systems.
+- 🧩 Specialized in Laravel, Vue, React, Next.js, and cutting-edge web technologies.
+- 🎨 Enthusiastic about creating elegant, intuitive, and user-centered interfaces.
+- 💡 Constantly learning and crafting innovative digital solutions.
+- 🛠️ Currently working on POS systems and custom portfolio websites.
 
 ---
 
-## 🧰 Tecnologías que uso
+## 🧰 Technologies I Work With
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=laravel,vue,react,nextjs,ts,astro,js,php,flutter,dart,mysql,css,tailwind&theme=dark&perline=6" /> </a> </p>
+<p align="center"> 
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=laravel,vue,react,nextjs,ts,astro,js,php,flutter,dart,mysql,css,tailwind&theme=dark&perline=6" />
+  </a> 
+</p>
 
 ---
 
@@ -30,7 +34,7 @@
 
 ---
 
-<!-- Footer con gradiente inverso -->
+<!-- Footer with inverted gradient -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,ff0000&height=120&section=footer"/>
 </p>
