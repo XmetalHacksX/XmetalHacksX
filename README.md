@@ -1,9 +1,7 @@
-<!-- Header with vibrant red to black gradient -->
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,000000&height=200&section=header&text=Raúl%20Andrés%20de%20la%20Rosa%20Gamboa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-  <br />
-  <span style="font-size: 22px; color: white;">Full-Stack Developer</span>
-</h1>
+<!-- Header personalizado con imagen propia -->
+<p align="center">
+  <img src="./image/banner-raul.png" alt="Banner de Raúl Andrés de la Rosa Gamboa" width="100%" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -36,7 +34,7 @@
 
 ---
 
-<!-- Footer with inverted gradient -->
+<!-- Footer con gradiente invertido -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,ff0000&height=120&section=footer"/>
 </p>
