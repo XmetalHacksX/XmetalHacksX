@@ -26,8 +26,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XmetalHaxksX&show_icons=true&theme=radical&count_private=true&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=XmetalHaxksX&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XmetalHacksX&show_icons=true&theme=radical&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=XmetalHacksX&theme=radical&hide_border=true" width="49%" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XmetalHaxksX&layout=compact&theme=radical&hide_border=true&langs_count=10" width="60%" />
 </div>
